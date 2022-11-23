@@ -19,9 +19,9 @@
 
 ### 1. Пройти гру Git Learn та зробити скріншоти пройдених рівнів.
 
-![image](git_game.jpg)
+![image](img/git_game.jpg)
 
-![image](git_game2.jpg)
+![image](img/git_game2.jpg)
 
 ### 2. Зробити git init папки із файлом  hello.txt та bash скриптом.
 
